@@ -17,7 +17,7 @@ O **SG - Yia** é uma solução de gestão e faturamento para PMEs e lojas que v
 ## Tecnologias
 
 - **Back-end:** Laravel 10
-- **Front-end:** Blade, Vite, TailwindCSS, Bootstrap e Axios.
+- **Front-end:** React, Blade, Vite, TailwindCSS, Bootstrap e Axios.
 - **Banco de dados:** MySQL
 - **Tenancy:**  `empresa_id` através de filtros directos nas consultas ao banco
 
