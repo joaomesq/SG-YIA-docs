@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **SG - Yia** é uma solução de gestão e faturamento para PMEs e lojas que vendem produtos físicos. Ele automatiza e simplifica controle estoque, vendas, emissão de faturas, gestão de funcionários e controle de usuários. O sistema de tem suporte a **multiempresa (multi-tentat)** baseda em `empresa_id`, de momento usa autenticação padrão do Laravel através de sessões.
+O **SG - Yia** é uma solução de gestão e faturamento para PMEs e lojas que vendem produtos físicos. Ele automatiza e simplifica controle estoque, vendas, emissão de faturas, gestão de funcionários e controle de usuários. O sistema de tem suporte a **multiempresa (multi-tenant)** baseda em `empresa_id`, de momento usa autenticação padrão do Laravel através de sessões.
 
 ---
 ## Funcionalidades
